@@ -1,0 +1,63 @@
+ // _removeProductFromCart() async {
+  //   SharedPreferences pref = await SharedPreferences.getInstance();
+  //   final token = pref.getString('userToken');
+  //   try {
+  //     Map<String, String> requestHeaders = {
+  //       'Authorization': 'Bearer $token',
+  //       'lang': apiLang(),
+  //     };
+  //     var response = await http.get(
+  //         Uri.parse(Utils.REMOVEFROMMYCART_URL + '/' + widget.id),
+  //         headers: requestHeaders);
+  //     var thisDetails = json.decode(response.body);
+
+  //     if (thisDetails['data']['cart']['details'].length == 0) {
+  //       // Provider.of<CartItemCount>(context, listen: false)
+  //       //     .getintData(price: 0, cont: 0);
+  //       Provider.of<CartProductProvider>(context, listen: false)
+  //           .updateCartRemoveProduct();
+  //       Provider.of<CartProductProvider>(context, listen: false)
+  //           .updateCartRemoveProduct();
+  //       setState(() {
+  //         this._visible = true;
+  //         this._visible2 = false;
+  //         widget.inCart = false;
+  //         this.counter = 0;
+  //         pref.setBool('hasCart', false);
+  //         pref.setString('cartItems', "0");
+  //         pref.setString('cartTotal', "0");
+  //       });
+  //     }
+  //     for (var singleProduct in thisDetails['data']['cart']['details']) {
+  //       if (singleProduct['product']['_id'] == widget.id) {
+  //         Provider.of<CartItemCount>(context, listen: false).decremertConut(
+  //             price:
+  //                 double.parse(singleProduct['product']['price'].toString()));
+
+  //         if (this.counter == 1) {
+  //           setState(() {
+  //             this._visible = true;
+  //             this._visible2 = false;
+  //             this.counter = 0;
+  //             widget.inCart = false;
+  //           });
+  //           Provider.of<CartProductProvider>(context, listen: false)
+  //               .updateCartRemoveProduct();
+  //           Provider.of<CartProductProvider>(context, listen: false)
+  //               .updateCartRemoveProduct();
+  //         } else {
+  //           setState(() {
+  //             this._visible = false;
+  //             this._visible2 = true;
+  //             widget.inCart = true;
+  //             this.counter = singleProduct['quantity'];
+  //           });
+  //         }
+  //       }
+  //     }
+
+     
+  //   } catch (e) {
+  //     print('${e}');
+  //   }
+  // }

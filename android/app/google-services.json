@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "368802847848",
+    "firebase_url": "https://konsolto-patient.firebaseio.com",
+    "project_id": "konsolto-patient",
+    "storage_bucket": "konsolto-patient.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368802847848:android:3e212bdde9ee2607966fdd",
+        "android_client_info": {
+          "package_name": "com.konsolto.patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368802847848-4jms6o3l2qod9kp2e7r9hrelrt09dacu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.konsolto.patient",
+            "certificate_hash": "c9c4111cd12fc4b30c768a1a89250df20b26f150"
+          }
+        },
+        {
+          "client_id": "368802847848-5ck70afse6171nrhd8i21sb15t6g6vj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.konsolto.patient",
+            "certificate_hash": "b858a7b06d836abe8eb82de90cb049582619ee8c"
+          }
+        },
+        {
+          "client_id": "368802847848-cmb8bmmtn2jh6n8389cnkmk23blh8lkl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.konsolto.patient",
+            "certificate_hash": "b05d1c1797b3f61b85611b3bedab60bb2d006d1a"
+          }
+        },
+        {
+          "client_id": "368802847848-git4p0htpresp2cdc0fpsoqpl52t37u6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.konsolto.patient",
+            "certificate_hash": "e0743cdbe07dd718041acd410d832ff77dbd735c"
+          }
+        },
+        {
+          "client_id": "368802847848-n8fnc0m0vbcvouguitf3hrgq1c0fcuk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.konsolto.patient",
+            "certificate_hash": "dcf0cdbba55be2b362cc56bdf6231363a2f5031e"
+          }
+        },
+        {
+          "client_id": "368802847848-v068r5qv2h04ahaeb229udaocl83dvbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.konsolto.patient",
+            "certificate_hash": "1a51be5539424a8daf099b58ce5bc7af7737f36b"
+          }
+        },
+        {
+          "client_id": "368802847848-ofh9skn2d5pe12lg5k1gaq9lbu82gqpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzfCqXtmazGkcUXOleHdGsbMxnDoRY95w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368802847848-ofh9skn2d5pe12lg5k1gaq9lbu82gqpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368802847848:android:57ad57e0529a3535966fdd",
+        "android_client_info": {
+          "package_name": "com.konsolto.patient.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368802847848-ve3l40cprrg158bu2e8kc0ru74tb9d4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.konsolto.patient.debug",
+            "certificate_hash": "b05d1c1797b3f61b85611b3bedab60bb2d006d1a"
+          }
+        },
+        {
+          "client_id": "368802847848-ofh9skn2d5pe12lg5k1gaq9lbu82gqpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzfCqXtmazGkcUXOleHdGsbMxnDoRY95w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368802847848-ofh9skn2d5pe12lg5k1gaq9lbu82gqpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368802847848:android:84b020adcc82a393966fdd",
+        "android_client_info": {
+          "package_name": "konsolto.patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368802847848-ofh9skn2d5pe12lg5k1gaq9lbu82gqpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzfCqXtmazGkcUXOleHdGsbMxnDoRY95w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368802847848-ofh9skn2d5pe12lg5k1gaq9lbu82gqpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
